@@ -8,10 +8,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h1>Funcionalidades</h1>
-Adição (+)
-Subtração (-)
-Multiplicação (*)
-Divisão (/)
-Porcentagem (%)
+ <li>
+ <ul> Adição (+) </ul>
+  <ul> Subtração (-) </ul>
+  <ul> Multiplicação (*) </ul>
+  <ul> Divisão (/) </ul>
+  <ul> Porcentagem (%) </ul>
+ </li>
+
+<br>
 
 <img src="./style/Calculadora.png">

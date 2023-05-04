@@ -14,4 +14,4 @@ Multiplicação (*)
 Divisão (/)
 Porcentagem (%)
 
-        <img src="./style/Calculadora.png">
+<img src="./style/Calculadora.png">
